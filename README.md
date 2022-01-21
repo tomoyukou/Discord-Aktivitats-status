@@ -1,2 +1,2 @@
-# Marius
+# Discord Aktivität Status
 Discord Aktivität Status
